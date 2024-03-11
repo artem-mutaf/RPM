@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\PrRpm5\bin\Debug\PrRpm5.exe.config
+C:\Users\Kab-35-6\Desktop\PrRpm5\bin\Debug\PrRpm5.exe
+C:\Users\Kab-35-6\Desktop\PrRpm5\bin\Debug\PrRpm5.pdb
+C:\Users\Kab-35-6\Desktop\PrRpm5\obj\Debug\PrRpm5.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\PrRpm5\obj\Debug\PrRpm5.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\PrRpm5\obj\Debug\PrRpm5.exe
+C:\Users\Kab-35-6\Desktop\PrRpm5\obj\Debug\PrRpm5.pdb
