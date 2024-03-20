@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\rpm3\bin\Debug\rpm3.exe.config
+C:\Users\Kab-35-6\Desktop\rpm3\bin\Debug\rpm3.exe
+C:\Users\Kab-35-6\Desktop\rpm3\bin\Debug\rpm3.pdb
+C:\Users\Kab-35-6\Desktop\rpm3\obj\Debug\rpm3.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\rpm3\obj\Debug\rpm3.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\rpm3\obj\Debug\rpm3.exe
+C:\Users\Kab-35-6\Desktop\rpm3\obj\Debug\rpm3.pdb
