@@ -1,0 +1,14 @@
+D:\Projects VStd\RpmPrkt5\bin\Debug\RpmPrkt5.exe.config
+D:\Projects VStd\RpmPrkt5\bin\Debug\RpmPrkt5.exe
+D:\Projects VStd\RpmPrkt5\bin\Debug\RpmPrkt5.pdb
+D:\Projects VStd\RpmPrkt5\obj\Debug\RpmPrkt5.csproj.AssemblyReference.cache
+D:\Projects VStd\RpmPrkt5\obj\Debug\RpmPrkt5.csproj.CoreCompileInputs.cache
+D:\Projects VStd\RpmPrkt5\obj\Debug\RpmPrkt5.exe
+D:\Projects VStd\RpmPrkt5\obj\Debug\RpmPrkt5.pdb
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\bin\Debug\RpmPrkt5.exe.config
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\bin\Debug\RpmPrkt5.exe
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\bin\Debug\RpmPrkt5.pdb
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\obj\Debug\RpmPrkt5.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\obj\Debug\RpmPrkt5.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\obj\Debug\RpmPrkt5.exe
+C:\Users\Kab-35-6\Desktop\RpmPrkt5\obj\Debug\RpmPrkt5.pdb
