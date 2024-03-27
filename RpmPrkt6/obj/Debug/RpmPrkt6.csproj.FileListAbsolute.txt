@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\bin\Debug\RpmPrkt6.exe.config
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\bin\Debug\RpmPrkt6.exe
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\bin\Debug\RpmPrkt6.pdb
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\obj\Debug\RpmPrkt6.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\obj\Debug\RpmPrkt6.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\obj\Debug\RpmPrkt6.exe
+C:\Users\Kab-35-6\Desktop\RpmPrkt6\obj\Debug\RpmPrkt6.pdb
