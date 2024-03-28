@@ -1,0 +1,7 @@
+D:\Projects VStd\PrktRpm4\bin\Debug\PrktRpm4.exe.config
+D:\Projects VStd\PrktRpm4\bin\Debug\PrktRpm4.exe
+D:\Projects VStd\PrktRpm4\bin\Debug\PrktRpm4.pdb
+D:\Projects VStd\PrktRpm4\obj\Debug\PrktRpm4.csproj.AssemblyReference.cache
+D:\Projects VStd\PrktRpm4\obj\Debug\PrktRpm4.csproj.CoreCompileInputs.cache
+D:\Projects VStd\PrktRpm4\obj\Debug\PrktRpm4.exe
+D:\Projects VStd\PrktRpm4\obj\Debug\PrktRpm4.pdb
