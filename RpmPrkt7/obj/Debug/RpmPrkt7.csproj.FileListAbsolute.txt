@@ -1,0 +1,7 @@
+D:\Projects VStd\RpmPrkt7\bin\Debug\RpmPrkt7.exe.config
+D:\Projects VStd\RpmPrkt7\bin\Debug\RpmPrkt7.exe
+D:\Projects VStd\RpmPrkt7\bin\Debug\RpmPrkt7.pdb
+D:\Projects VStd\RpmPrkt7\obj\Debug\RpmPrkt7.csproj.AssemblyReference.cache
+D:\Projects VStd\RpmPrkt7\obj\Debug\RpmPrkt7.csproj.CoreCompileInputs.cache
+D:\Projects VStd\RpmPrkt7\obj\Debug\RpmPrkt7.exe
+D:\Projects VStd\RpmPrkt7\obj\Debug\RpmPrkt7.pdb
